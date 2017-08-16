@@ -9,6 +9,6 @@ public class Main {
     }
 
     public static int leapYearCount(int year) {
-        return year - year / 4 + year / 400 - year / 100;
+        return year / 4 + year / 400 - year / 100;
     }
 }
