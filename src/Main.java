@@ -1,5 +1,6 @@
 //Реализуйте метод, возвращающий true, если среди четырех его аргументов ровно два истинны (любые).
 //Во всех остальных случаях метод должен возвращать false.
+
 public class Main {
     public static void main(String[] args) {
         boolean ffff = booleanExpression(false, false, false, false);
