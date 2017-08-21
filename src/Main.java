@@ -9,6 +9,6 @@ public class Main {
     }
 
     public static char charExpression(int a) {
-        return (char) (']' - 1 + a);
+        return (char) ('\\' + a);
     }
 }
